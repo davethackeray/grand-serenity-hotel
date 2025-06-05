@@ -1,2 +1,2 @@
-# grand-serenity-hotel
+# The Grand Serenity Hotel
 I created a team of AI agents to run this hotel. Here's what happened...
